@@ -1,0 +1,17 @@
+{
+    "name": "kirchbergerknorr/empty-layouts",
+    "description": "Empty Layouts",
+    "keywords": ["magento", "empty-handles", "drewhunter"],
+    "homepage": "https://github.com/drewhunter/EmptyHandles",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "authors": [
+        {
+            "name": "Benedikt Volkmer",
+            "email": "bv@kirchbergerknorr.de"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
